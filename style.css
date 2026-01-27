@@ -107,7 +107,7 @@ body {
     bottom: -5px;
     left: 0;
     width: 100%;
-    height: 2px;
+    height: 1.5px;
     background: #FFD700;
 }
 
@@ -906,4 +906,3 @@ section.visible {
         padding: 1.5rem;
     }
 }
-
